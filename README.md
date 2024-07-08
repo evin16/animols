@@ -1,3 +1,3 @@
 # animols
 
-### flappybird games with bat and cave background
+flappybird games with bat and cave background
